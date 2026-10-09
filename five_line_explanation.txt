@@ -1,0 +1,5 @@
+1. Removed greetings, conversational filler, and repeated statements of the main task.
+2. Grouped related CSV export requirements under a single Requirements heading.
+3. Preserved filtered rows, sorting order, visible column order, hidden-column exclusion, and ISO 8601 date formatting.
+4. Retained the no-new-dependencies constraint and the inspect-before-change workflow.
+5. Preserved implementation, changed-file reporting, and verification of existing filtering and sorting.
